@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="utf-8"   ?>
+<resources>
+    <string name="dailog_isSilence_1" formatted="false">Вы были забанены администратором %s </string>
+    <string name="dailog_isSilence_0" formatted="false">Администратор %s освободил вас от бана</string>
+    <string name="app_name">Беседка</string>
+    <string name="hello_world">Мысли вслух!</string>
+    <string name="action_settings">Настройки</string>
+    <string name="facebook_app_name">Беседка</string>
+    <integer name="com_vk_sdk_AppId">5225060</integer>
+    <string name="app_id">1122997167713463</string>
+    <string name="loading">Загрузка...</string>
+    <string name="UpData">Обновление...</string>
+    <string name="goto_mic">Пожалуйста подождите...</string>
+    <string name="pull_loadmore">Потяните чтобы обновить</string>
+    <string name="load_pic_err">Не удалось загрузить изображение</string>
+    <!-- facebook -->
+    <string name="success">Успешно</string>
+    <string name="successfully_posted_post">Номер поста: %1$s</string>
+    <string name="error">Ошибка</string>
+    <string name="ok">Ок</string>
+    <!-- HeadLayout 标题栏-->
+    <string name="emptyStr" />
+    <!-- tabHost -->
+    <string name="tab_message">Сообщения</string>
+    <string name="tab_bar">Комнаты</string>
+    <string name="tab_discover">Лента</string>
+    <string name="tab_me">Профиль</string>
+    <string name="tab_discoverFragment">DiscoverFragment</string>
+    <string name="tab_gold">Монеты</string>
+    <string name="tab_diamond">Бриллианты</string>
+    <string name="tab_online">Посетители</string>
+    <string name="tab_ranking">Поклонники</string>
+    <string name="tab_info">Информация</string>
+    <string name="tab_application">Заявка</string>
+    <string name="barInfo">Информация о комнате</string>
+
+    <string name="room_rank_top_list_desc">Спонсоры</string>
+    <!--email register -->
+    <string name="email_register_email_address">Введите адрес электронной почты.</string>
+
+    <!-- phone register-->
+    <string name="phone_register_enter_your_phone">Введите номер телефона.</string>
+
+    <!--register profile -->
+    <string name="profile_nick_name_hint">Ваше имя</string>
+    <string name="profile_birthday_hint">Дата рождения</string>
+
+
+    <string name="phone_register_click_for_code">Нажмите для получения кода</string>
+
+    <string name="phone_register_enter_the_phone_code">Введите код</string>
+    <string name="phone_register_setpassword">Установите пароль.</string>
+
+    <!-- title-->
+    <string name="title_activity_dynamic">Динамичная активность</string>
+    <string name="title_activity_new_user">Регистрация</string>
+    <string name="title_activity_create_bar">Создать свою комнату</string>
+    <string name="title_activity_upbar">Расширить комнату</string>
+    <string name="title_activity_Report">Отправить жалобу</string>
+    <string name="title_activity_online_list">Пользователи онлайн</string>
+    <string name="title_activity_my_post">Мои посты</string>
+    <string name="title_activity_my_bar">Мои комнаты</string>
+    <string name="title_activity_visitors">Посетители</string>
+    <string name="title_activity_subscriptions">Сообщения от Беседки</string>
+    <!-- button-->
+    <string name="button_submit">Отправить</string>
+    <string name="button_editor">Редактировать</string>
+    <string name="button_next">Продолжить</string>
+    <string name="button_resend">Отправить снова</string>
+    <string name="button_confirm">Подтвердить</string>
+    <string name="button_cancel">Отмена</string>
+    <string name="button_release">Опубликовать</string>
+    <string name="button_closed">Закрыто</string>
+    <string name="button_close">Закрыть</string>
+    <string name="button_more">Больше</string>
+    <string name="button_complete">Завершить</string>
+    <string name="button_myleceived">История</string>
+    <string name="button_send">Отпр.</string>
+    <string name="button_finish">Закончить</string>
+    <string name="button_new_user">Новый пользователь</string>
+    <string name="button_login">Войти</string>
+    <string name="button_private_chat">Личная переписка</string>
+    <string name="button_top_up">Пополнить</string>
+    <string name="button_large_bar">Большая комната</string>
+    <string name="button_save">Сохранить</string>
+    <string name="button_yes">Да</string>
+    <string name="button_disagree">Нет</string>
+    <string name="button_Reconnection">Переподключение</string>
+    <string name="reply">Ответить</string>
+    <string name="moment_details">Момент</string>
+    <string name="moment">Моменты</string>
+    <string name="comment">комментариев</string>
+    <string name="people">Люди</string>
+    <string name="just">Только что</string>
+    <string name="view_all">Открыть</string>
+    <string name="input_complete">Оставьте комментарий.</string>
+    <string name="girls">Девушки</string>
+    <string name="date">Время</string>
+    <string name="my_post">Мои посты</string>
+    <string name="input_id">Введите номер</string>
+
+    <!--红包-->
+    <string name="red_myreceived">Полученные</string>
+    <string name="red_sent">Отправленные</string>
+    <string name="red_quantity">Количество</string>
+    <string name="red_enter_number">Введите число</string>
+    <string name="red_total">Всего</string>
+    <string name="red_input_amount">Введите сумму</string>
+    <string name="red_lucky_money">Лотерея Счастливый конверт</string>
+    <string name="red_lucky_money_from_james_bond">Лотерея конверт счастья</string>
+    <string name="red_gold">"Монет:"</string>
+    <string name="red_better_an_empty">Лучше пустой кошелёк, чем пустая голова.</string>
+    <string name="red_generosity_is_giving_more">Быть щедрым - значит давать больше, чем можешь.</string>
+    <string name="red_people_come_when_coins_spread">О вашей щедрости будут говорить!</string>
+    <string name="red_you_are_richer_han_richer">Да вы богаче олигархов!</string>
+    <string name="red_please_input_ampow_quantity">Введите количество конвертов.</string>
+    <string name="red_please_input_ampow_amount">Введите разыгрываемую сумму..</string>
+    <string name="red_your_ampow_quantity_cant_less_than">Колличество конвертов должно быть не меньше 3</string>
+    <string name="red_ampow_amount_can_not">Разыгрываемая сумма должна быть больше количества конвертов</string>
+    <string name="red_ampow_random_amount">Конверт со случайной суммой</string>
+    <string name="red_best_wishes">Пожелайте удачи участникам!</string>
+    <string name="red_best_luck">В следующий раз повезёт!</string>
+    <string name="red_prepare_lucky_money">Отправить</string>
+    <string name="red_for_out_tip">Всего 1% суммы пойдёт нам на чай с печеньками.</string>
+    <string name="red_money">%1$s монет.</string>
+    <string name="red_total_number_sent">Всего отправлено</string>
+    <string name="red_lucky_money_from">Счастливый конверт от </string>
+    <string name="red_total_amount_should_more_then">Сумма должна быть больше 100 монет</string>
+    <string name="red_opened">Открыто </string>
+    <string name="open">Открыть</string>
+    <string name="red_gold_2">,монет </string>
+    <string name="red_welfare_x"> Благотворительность x  </string>
+    <string name="red_details">Подробно</string>
+
+    <!--任务-->
+    <string name="task_title">Получить монеты</string>
+    <string name="task_sign">Готово!</string>
+    <string name="task_receive">Получить</string>
+    <string name="task_completed">Завершено</string>
+    <string name="task_accept">Начать</string>
+
+    <string name="user_list_earn">Получить</string>
+    <string name="user_list_gift">Мои подарки</string>
+    <string name="task_claim">Получить</string>
+    <string name="task_verify">Ввести</string>
+    <string name="go">Следующий</string>
+    <string name="task_invite">Получить</string>
+    <string name="task_sign_in_balala">Зайдите в "Беседку"</string>
+    <string name="task_100_gold">100 Монет</string>
+    <string name="task_500_gold">500 Монет</string>
+    <string name="task_1000_gold">1000 Монет</string>
+    <string name="task_2000_gold">2000 Монет</string>
+    <string name="task_leave_your_footsteps_in_bar">Транслировать 10 минут подряд.</string>
+    <string name="bind_account">Привяжите аккаунт</string>
+    <string name="create_a_bar">Создайте комнату</string>
+    <string name="leave_star_in_gp_comment">Поставьте нам 5+ в Google Play</string>
+    <string name="search_balala_in_google_play">Найдите Беседку в Google Play</string>
+    <string name="id_of_your_invitor">Введите номер пригласившего/ей.</string>
+    <string name="invite_a_friend">Пригласите друга!</string>
+    <string name="share_balala_to_facebook">Поделитесь Беседкой с друзьями!</string>
+    <string name="no_post">Нет доступных заданий</string>
+
+
+    <!--setting-->
+    <string name="setting">Настройки</string>
+    <string name="my_account">Профиль</string>
+    <string name="sound">Звук</string>
+    <string name="about">О компании</string>
+    <string name="logoup">Выйти</string>
+    <string name="feedback">Написать разработчикам</string>
+    <string name="copyright">Copyright©2015-2020 </string>
+    <string name="copyright2">Все права защищены</string>
+    <string name="agreement_lab">Правовая информация</string>
+    <string name="change_password">Сменить пароль</string>
+    <string name="old_password_err">Ошибка в длинне старого пароля..</string>
+    <string name="new_password_err">Ошибка в длинне нового пароля..</string>
+    <string name="new_and_old_pwd_err">Новый пароль не может повторять старый..</string>
+    <string name="repeat_and_new_pwd_err">Вы ввели пароль, отличающийся от предыдущего..</string>
+    <string name="login_err">Вы авторизованы на другом устройстве, будет осуществлён выход из системы.</string>
+    <string name="password">Пароль</string>
+    <string name="old_password">Старый пароль</string>
+    <string name="new_password">Новый пароль</string>
+    <string name="repeat_password">Повторить пароль</string>
+    <string name="start_login">Войти</string>
+    <string name="repeat">Повторите</string>
+    <string name="bind_facebook">Привязать к Facebook</string>
+    <string name="bind_phone">Привязать телефон</string>
+    <string name="bind_phone_prompt">Вы уже привязали телефон.</string>
+    <string name="input_feedback_content">Напишите нам!</string>
+    <string name="for_more_information">Пишите нам по всем вопросам и пожеланиям!</string>
+    <string name="verifying_code">Код подтверждения</string>
+    <string name="country_code">+7</string>
+    <string name="her_post">Её посты</string>
+    <string name="my">Мои посты</string>
+    <string name="member">Участник</string>
+    <string name="share">Поделиться</string>
+    <string name="bill">Операции</string>
+    <string name="her_bar">Её комнаты</string>
+    <string name="focus_success">Подписка оформлена</string>
+    <string name="focus_fail">Не удалось подписаться</string>
+    <string name="never_give_up_music">Не забывайте о музыке!!</string>
+    <string name="her_album">Её альбом</string>
+    <string name="chat">Чат</string>
+    <string name="follow">Подписаться</string>
+    <string name="please_input">Введите </string>
+    <string name="please_input_nickname">Имя</string>
+    <string name="please_input_birthday">Дата вашего рождения.</string>
+    <string name="click_record">Удерживайте микрофон для записи</string>
+    <string name="tell_friends_who_are_you">Расскажите о себе! Еще не все знают о ваших достоинствах!.</string>
+    <string name="my_following">Подписки</string>
+    <string name="bound_check">Сменить</string>
+    <string name="bind_check">Привязать</string>
+    <string name="bound">Привязано</string>
+    <!--self diaolg -->
+    <string name="delete_item">Удалить переписку</string>
+    <string name="sign_read">Отметить как прочитанное</string>
+    <string name="sticky_top">Закрепить</string>
+    <string name="sign_unread">Отметить как непрочитанное</string>
+    <string name="title_activity_send_dynamic">Отправить</string>
+
+    <!-- 关注提示-->
+    <string name="att_success">Подписки</string>
+    <string name="att_fail">Не удалось подписаться</string>
+    <string name="cancel_focus_success">Вы отписались</string>
+    <string name="cancel_focus">Отписаться</string>
+    <string name="cancel_focus_fail">Не удалось отписаться</string>
+    <string name="att">Подписаться</string>
+    <!-- 我的礼物-->
+    <string name="gift_my_coin">Монет: </string>
+    <string name="gift_Diamonds">Бриллиантов: </string>
+    <string name="gift_Recharge">Пополнить</string>
+    <string name="gift_toast">Вы не можете дарить подарки себе.</string>
+    <string name="gift_code1012">Нужно больше золота.</string>
+
+    <!-- CreateBar-->
+    <!-- CreateBar 之前的选择包厢类型界面提示-->
+    <string name="money_bar_title_1">Мини Lv1</string>
+    <string name="money_bar_context_1">В мини-комнате могут одновременно общаться 10 человек</string>
+    <string name="money_bar_title_2">Маленькая Lv1</string>
+    <string name="money_bar_context_2">В маленькой комнате могут одновременно общаться 20 человек</string>
+    <string name="money_bar_title_3">Средняя Lv1</string>
+    <string name="money_bar_context_3">В средней комнате могут одновременно общаться 50 человек</string>
+    <string name="money_bar_title_4">Большая Lv1</string>
+    <string name="money_bar_context_4">В большой комнате могут одновременно общаться 100 человек</string>
+    <string name="money_prompt">Выберите тип комнаты</string>
+    <string name="money_recharge">[Пополнить]</string>
+    <string name="money_myCoin_title">Ваши монеты:</string>
+    <string name="money_Free">Бесплатно</string>
+    <string name="money_toast">Нужно больше золота.</string>
+    <string name="createBar_toast_no_name">Назовите вашу комнату.</string>
+    <string name="createBar_toast_no_description">Опишите вашу комнату.</string>
+    <string name="createBar_toast_no_picture">Без изображения.</string>
+    <string name="createBar_hint_name">Введите название комнаты.</string>
+    <string name="createBar_hint_Introduce">Опишите вашу комнату.</string>
+    <string name="createBar_txt_Category">Категория</string>
+    <string name="createBar_txt_variety">Свойства</string>
+    <string name="createBar_btn_Submit">Подтвердить</string>
+    <string name="createBar_Toast">Пожалуйста подождите.</string>
+    <string name="create_up_bar_readme" formatted="false">У вас %s монет, нажмите чтобы</string>
+    <string name="create_up_bar_small_bar" formatted="false">Оплата за расширение:%s k,%s k монет/месяц</string>
+    <string name="create_up_bar_online" formatted="false">(В маленькой комнате может одновременно общаться %s человек)</string>
+    <string name="create_up_bar_gold_MiniBar" formatted="false">Вы используете мини-комнату, расширьте её, чтобы больше людей могли одновременнно общаться (уровень вашей комнаты не изменится)</string>
+    <string name="create_up_bar_gold_SmallBar" formatted="false">Вы используете маленькую комнату, расширьте её, чтобы больше людей могли одновременнно общаться (уровень вашей комнаты не изменится)</string>
+    <string name="create_up_bar_gold_MediumBar" formatted="false">Вы используете среднюю комнату, расширьте её, чтобы больше людей могли одновременнно общаться (уровень вашей комнаты не изменится)</string>
+    <string name="create_up_bar_gold_LargeBar" formatted="false">Вы используете большую комнату, расширьте её, чтобы больше людей могли одновременнно общаться (уровень вашей комнаты не изменится)</string>
+
+    <!-- chatRoom-->
+    <string name="room_notice">Сообщение от ведущего</string>
+    <string name="go_in">Инициализация комнаты</string>
+    <string name="room_gift1" formatted="false">[Номер комнаты：%s] </string>
+    <string name="room_gift2" formatted="false">" Отправить "</string>
+    <string name="room_gift3" formatted="false">"Подарок %s "</string>
+    <string name="room_gift4" formatted="false">" сказать всем： "</string>
+    <string name="chat_room_service_faild">Не удалось</string>
+    <string name="chat_room_login_error">Не удалось</string>
+    <string name="chat_room_login_1">Комната заполнена.</string>
+    <string name="chat_room_btn_send">Отпр.</string>
+    <string name="chat_room_edit_RadioBroadcast">Отправить оповещение(Потребуется  500 монет.)</string>
+    <string name="chat_room_no_speek">Вам было запрещено говорить.</string>
+    <string name="chat_room_on_Txt">Что вы думаете?</string>
+    <string name="chat_room_ismanagement">Вы вошли как гость, обратитесь к администратору..</string>
+    <string name="char_room_radio_on_coin">Нужно больше золота.</string>
+    <string name="char_room_edit1">Не больше 10 смайликов за раз!</string>
+    <string name="char_room_text_lenght">Превышен объём (не более 480 знаков).</string>
+    <string name="char_room_content">Ваше сообщение повторяет предыдущее, напишите что нибудь еще!</string>
+    <string name="chat_room_mic">Вы вошли как гость, запросите права на трансляцию.</string>
+    <string name="chat_mic_error">Не удалось запустить трансляцию.</string>
+    <string name="chat_mic_connection">Не удалось запустить трансляцию.</string>
+    <string name="mic_tops">Подсказка: Используйте внешний микрофон для лучшего качества звука.</string>
+    <string name="mic_tips_title">Напоминание</string>
+    <string name="mic_tops_content">Вас пригласили начать трансляцию,вы согласны?</string>
+    <string name="formatted_1" formatted="false">Отправил вам：%s</string>
+    <string name="formatted_2" formatted="false">Вы отправили %s：%s</string>
+    <string name="formatted_3" formatted="false">Отпралено %s</string>
+    <string name="service_error">Проблема с подключением</string>
+    <string name="time_out">Превышен лимит ожидания</string>
+    <string name="toast_Have_been_someone">Уже отправлено</string>
+    <string name="constellation">Знак зодиака</string>
+    <string name="send_a_gift">Это тебе!</string>
+    <string name="char_room_menu_join_bar">Присоединиться</string>
+    <string name="search_bar">Название или ID комнаты</string>
+    <string name="search_people">Имя или ID пользователя</string>
+    <string name="char_room_menu_share">Поделиться другим способом</string>
+    <string name="char_room_menu_share_facebook">Поделиться в Facebook</string>
+    <string name="char_room_menu_share_square">Поделиться в Беседке</string>
+    <string name="char_room_menu_exit">Выйти</string>
+    <string name="char_room_menu_report">Оставить жалобу</string>
+    <string name="shareTitle">Всем привет, заходите!</string>
+    <string name="shareDescription" formatted="false">У меня теперь есть своя комната в Беседке, заходите меня послушать: %s</string>
+    <string name="create_bar_hint">Инструкции \n
+    1.Хозяин комнаты может менять её тип после создания..\n
+    2.Хозяин комнаты получает часть монет со всех подарков пользователей.</string>
+    <string name="create_bar_back">Отмена</string>
+    <string name="Release">Отправить</string>
+    <string name="Bar_list_Follow">Подписаться</string>
+    <string name="unFollow">Отписаться</string>
+    <string name="report_Desctibing">Опишите суть проблемы:</string>
+    <string name="report_Report">Причина жалобы</string>
+    <string name="WageGet">Вы успешно получили бонус.</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_show_image">Показать изменения изображений</string>
+    <string name="title_activity_my_info">Моя информация</string>
+    <string name="title_activity_user_info_edit">Изменения профиля</string>
+    <string name="title_activity_send_red_rnvelopes">Отправленные счастливые конверты</string>
+    <string name="title_activity_open_red_rnvelopes">Полученные счастливые конверты</string>
+    <string name="title_activity_bound">Привязать телефон</string>
+    <string name="title_activity_change_phone">Сменить телефон</string>
+
+    <!--private chat -->
+    <string name="purchase">Пополнить</string>
+    <string name="notify_new_message">Новое сообщение</string>
+    <string name="illegal_empty_msg">Сообщение не может быть пустым.</string>
+
+    <!--relations-->
+    <string name="relation_friends">Друзья</string>
+    <string name="relation_follower">Подписчики</string>
+    <string name="relation_following">Подписки</string>
+    <string name="relation_title">Друзья и Подписчики</string>
+    <string name="title_activity_my_red_rnvelopes">Мои лотереи</string>
+    <string name="title_activity_voiceintr">Мои голосовые сообщения</string>
+    <string name="title_activity_my_gift">Мои подарки</string>
+    <string name="title_activity_user_info">Кто заходил вас посмотреть</string>
+    <string name="title_activity_my_discover">Моя активность</string>
+    <string name="my_gift">Мои подарки</string>
+    <string name="received_gifts">Полученные подарки</string>
+    <string name="edit_profile">Редактировать профиль</string>
+    <string name="camera">Камера</string>
+    <string name="album">Из галереи</string>
+    <string name="gender">Пол</string>
+    <string name="male">Муж</string>
+    <string name="female">Жен</string>
+    <string name="voice_intro">Голосовое приветствие</string>
+    <string name="base_info">О себе</string>
+    <string name="nickname">Имя</string>
+    <string name="birthday">Дата рождения</string>
+    <string name="input_your_nickname">Введите имя</string>
+    <string name="select_your_birthday">Выберите дату рождения</string>
+    <string name="by_proceeding_you_confirm">Продолжая вы подтверждаете что согласны с условиями "Беседки".</string>
+    <string name="terms_of_service">Правовая информация.</string>
+    <string name="Constellation">Знак зодиака</string>
+    <string name="place">Я живу в</string>
+    <string name="career">Я занимаюсь </string>
+    <string name="hobby">Моё хобби</string>
+    <string name="register_with_phone">Зарегистрироваться через телефон</string>
+    <string name="mobile_phone_number_already_exists">Номер уже зарегистрирован.</string>
+    <string name="friend">Друг</string>
+
+    <!--login-->
+    <string name="login_id_hint">Номер аккаунта / Номер телефона</string>
+    <string name="login_password_hint">Пароль</string>
+    <string name="login_title">Войти</string>
+    <string name="login_quick">Вход через социальные сети</string>
+    <string name="login_forgot_pwd">Забыли пароль?</string>
+    <string name="title_activity_select_address">Выберите адрес</string>
+    <string name="login_faild">Войти не удалось, попробуйте позже.</string>
+    <string name="login_vk">Вконтакте</string>
+
+    <!--find password-->
+    <string name="user_set_password"> От 6 до 20 знаков</string>
+    <string name="find_password_title">Восстановить пароль</string>
+    <string name="phone_send_code_hint">Выслан код подтверждения.</string>
+    <string name="password_validate">Пароли должны отличаться.</string>
+
+
+    <!--visitor-->
+    <string name="vistor_title">Посетители</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="title_activity_myaccount">myaccountActivity</string>
+
+
+    <!-- subscription -->
+    <string name="subscription_title">Сообщения от Беседки</string>
+    <string name="subscription_activies_notice">Конкурсы</string>
+    <string name="subscription_service">Оповещения</string>
+    <string name="title_activity_change_password">Активность по смене пароля</string>
+    <string name="title_activity_about">Активность "О компании"</string>
+    <string name="title_activity_feed_back">Активность жалоб и предложений</string>
+    <string name="title_activity_bound_phone">Активность по привязке телефонов</string>
+
+    <!-- recharge  -->
+    <string name="recharge_purchase_diamond">Приобрести бриллианты</string>
+    <string name="recharge_exchange">Обменять</string>
+    <string name="recharge_rate">1 бриллиант = 1000 монет.</string>
+    <string name="recharge_unit">Руб </string>
+    <string name="recharge_be_agency">Хотите быть нашим агентом?</string>
+    <string name="wallet_title">Бриллианты</string>
+
+
+    <!--exchange-->
+
+    <string name="exchange_title">Обменять</string>
+    <string name="exchange_coins_could">За монеты можно...</string>
+    <string name="exchange_item1">Приобретать подарки</string>
+    <string name="exchange_item2">Оплачивать и расширять комнату</string>
+    <string name="exchange_item3">Отправлять общие оповещения</string>
+
+
+    <string name="recharge_title">Пополнить</string>
+
+    <!--BiLL-->
+    <string name="bill_task">Награды за задачи</string>
+    <string name="bill_event">Награды за активность</string>
+    <string name="bill_gold_exchange">Обмен монет</string>
+    <string name="bill_level_up">Награды за повышения уровня</string>
+    <string name="bill_admin_add">Монеты от администратора</string>
+    <string name="bill_receive_wage">Бонус</string>
+    <string name="bill_red_envelope">Лотерейный конверт</string>
+    <string name="bill_received_gift">Получение подарка</string>
+    <string name="bill_single_supplement_coin">Дополнительные монеты</string>
+    <string name="bill_not_receive_red_envelope">Возврат лотерейного конверта</string>
+
+    <string name="bill_create_bar">Создание комнаты</string>
+    <string name="bill_up_bar">Расширение комнаты</string>
+    <string name="bill_buy_horn">Покупка оповещения</string>
+    <string name="bill_send_red_envelope">Отправка лотерейного конверта</string>
+    <string name="bill_send_gift">Отправка подарка</string>
+    <string name="bill_admin_clear">Очистка администратором</string>
+
+    <string name="bill_buy_self_diamond">Покупка бриллиантов</string>
+    <string name="bill_admin_add_diamond">Пополнение бриллиантов администратором</string>
+    <string name="bill_agent_buy_diamond">Пополнение агенством </string>
+    <string name="bill_single_supplement_diamond">Дополнительные бриллианты за потерянный счёт.</string>
+    <string name="bill_admin_deduct_diamond">Вычитание бриллиантов (Backstage operation) </string>
+    <string name="bill_diamond_exchange">Обмен бриллиантов на монеты</string>
+
+    <!--新增-->
+    <string name="loading_error">Ошибка загрузки, переключите экран для устранения.</string>
+    <string name="bar">Комнаты</string>
+    <string name="his_room">Его комнаты</string>
+    <string name="his_post">Его посты</string>
+    <string name="cannot_chat_self">Вы не можете отправлять сообщения себе.</string>
+    <string name="her_room">Её комнаты</string>
+    <string name="no">Нет</string>
+    <string name="art_you_sure">Вы уверены？</string>
+    <string name="can_create_one_instructions">Каждый пользователь может создать только одну комнату.</string>
+    <string name="quest_instructions">Награды за выполненные задания увеличится с достижением нового уровня!</string>
+
+
+    <!--alert-->
+    <string name="no_data">Опа, а тут ничего нет!</string>
+    <string name="send_code_been">Код подтверждения отправлен.</string>
+    <string name="phone_has_been">Номер уже зарегистрирован ранее.</string>
+    <string name="error_network">Запрос отклонён</string>
+    <string name="anonymous">Анонимно</string>
+    <string name="create_your_profile">Создайте свой профиль</string>
+    <string name="taking_pictures">Камера</string>
+    <string name="choice_phone_photo">Из галереи</string>
+    <string name="please_input_dynamic">Скажите что нибудь!</string>
+    <string name="upload_success">Загрузка удалась</string>
+    <string name="upload_fail">Не удалось загрузить</string>
+    <string name="to_report">Пожаловаться</string>
+    <string name="porn">Порнография</string>
+    <string name="spam">Спам</string>
+    <string name="bloody_violence">Жестокость и насилие</string>
+    <string name="illegal_behavior">Незаконное поведение(Наркотики, мошенничество...)</string>
+    <string name="congratulations">Поздравляем, вы получаете 100 монет!</string>
+    <string name="daily_attendance">Ежедневное посещение</string>
+    <string name="post">Мои посты</string>
+    <string name="red_number_100">Кол-во ковертов не может превышать 100.</string>
+    <string name="login_failed">Не удалось войти</string>
+    <string name="login_success">Вход осуществлён</string>
+    <string name="sure">Ок</string>
+    <string name="friend_to_promote">Привет, скорей ставь себе Беседку! И не забудь после логина ввести мой id: %1$s, там весело! </string>
+    <string name="send_fail">Отправить не удалось.</string>
+    <string name="coin_less">Нужно больше золота.</string>
+    <string name="trading_success">Успешная операция.</string>
+    <string name="currently_own">Монет сейчас:</string>
+    <string name="coins">Монеты</string>
+    <string name="diamond_to_exchange">Бриллиантов на обмен:</string>
+    <string name="exchange_rate">Обменный курс 1:1</string>
+    <string name="more_participation">Чем больше участвуете, тем интересней.</string>
+    <string name="gift_toast_pp">Не удалось найти цель</string>
+    <string name="toast_no_network">Нет сети</string>
+    <!--hint-->
+    <string name="hint_content">Напишите сюда...</string>
+    <string name="hint_say_something">Скажите что нибудь...</string>
+    <string name="hint_address">Адрес</string>
+    <string name="hint_please_input_text">Сообщение</string>
+    <string name="hint_edit_name">Редактировать имя</string>
+
+    <string name="param_not_null">Сумма должна быть больше нуля.</string>
+    <string name="title_activity_bound_facebook">Привязать активность в Facebook.</string>
+
+    <string name="dialog_search_top">Поиск</string>
+    <string name="message_search_title">Поисковые теги, имя пользователя, ID</string>
+
+    <!--  barInfo-->
+    <string name="barinfo_name">Название комнаты</string>
+    <string name="barinfo_introduce">Описание</string>
+    <string name="barinfo_Ann">Представление</string>
+    <string name="barhead">Информация о комнате</string>
+    <string name="Annoucement">Объявление</string>
+    <string name="Introduce">Представление</string>
+    <string name="barName">Название комнаты</string>
+    <string name="Upgrade">Расширить</string>
+    <string name="Join_us">Присоединиться</string>
+    <string name="voice_notice">Голосовое оповещение</string>
+
+    <string name="purchase_succ">Покупка совершена</string>
+    <string name="purchase_faild">Не удалось произвести покупку</string>
+    <string name="purchase_init_faild">Инициализация не удалась</string>
+    <string name="mic_permission">Не удалось записать голос, пожалуйста попробуйте снова.</string>
+
+    <string name="kick_out">Вы уверены что хотите удалить пользователя из комнаты?</string>
+    <string name="ban_chat">Вы уверены что хотите чтобы этот пользователеь замолчал?</string>
+
+    <!--IM服务器-->
+    <string name="serv_login_faild_noslave">Нет подходящего сервера.</string>
+    <string name="serv_login_faild_sign">Идентификация не удалась</string>
+    <string name="serv_sendgift_faild_nomoney">Не хватает монет для подарка</string>
+    <string name="room_admin_alert">Разрешение отклонено</string>
+    <string name="red_envelope_number_prompt">Количество конвертов не должно быть менее 3</string>
+    <string name="up_medium_room">Средняя комната</string>
+    <string name="up_small_bar">Маленькая комната</string>
+    <string name="up_mini_room">Мини-комната</string>
+    <string name="up_large_room">Большая комната</string>
+    <string name="room_info_bonus">Бонус</string>
+    <string name="room_info_exp">Опыт</string>
+    <!--通知栏-->
+    <string name="notification_new_message">Новое сообщение</string>
+    <string name="notification_voice">[Голос]</string>
+    <string name="notification_default_gift">[Подарок]</string>
+    <string name="suggestion_for_you">Рекомендуем</string>
+    <string name="most_active">Самые активные</string>
+    <string name="friend_follow">Друзья подписчики</string>
+    <string name="my_followed">Мои подписки</string>
+    <string name="unKnow_error">Сервер перегружен, пожалуйста, попробуйте через минуту</string>
+    <string name="purchase_cancel">Платёж отклонён</string>
+    <string name="google_play_useless">Невозможно использовать Google play	</string>
+    <string name="diaomond_not_enough">Не хватает бриллиантов</string>
+    <string name="luckiest_draw">Удачи!</string>
+
+    <!--google play-->
+    <string name="server_require_faild">Сервер не отвечает</string>
+    <string name="reissue_faild">Ошибка</string>
+    <string name="inquiry_faild">Ошибка запроса</string>
+    <string name="illegal_sku">Неверный код</string>
+    <string name="purchase_success">Покупка завершена.</string>
+    <string name="cancel_purcase">Отменить покупку.</string>
+
+    <string name="microphone_already_used">Микрофон используется другим приложением</string>
+    <string name="btn_facebook_login">Facebook</string>
+    <string name="improves_admin">Вас сделали администратором</string>
+    <string name="demotiion_Management">Вас изгнали из администраторов</string>
+    <string name="member_getOut">Вы больше не состоите в группе</string>
+    <string name="improves_message">Новые пользователи присоединились к группе</string>
+    <string name="improves_the_message">Присоединиться к группе %s </string>
+    <string name="Member_message">Вы присоединились к группе %s </string>
+
+    <string name="voice_info_message_text">Запись</string>
+    <string name="voice_info_link_text">Мне нравится!</string>
+    <string name="voice_info_praise_text">Подписчики</string>
+    <string name="voice_info_edit_barName">Название комнаты:</string>
+    <string name="voice_info_edit_context">Описание комнаты:</string>
+    <string name="voice_info_btn">Сохранить</string>
+
+    <!-- 星座 -->
+    <string name="aries">Овен</string>
+    <string name="taurus">Телец</string>
+    <string name="gemini">Близнецы</string>
+    <string name="cancer">Рак</string>
+    <string name="leo">Лев</string>
+    <string name="virgo">Дева</string>
+    <string name="libra">Весы</string>
+    <string name="scorpio">Скорпион</string>
+    <string name="sagittarius">Стрелец</string>
+    <string name="capricorn">Козерог</string>
+    <string name="aquarius">Водолей</string>
+    <string name="pisces">Рыбы</string>
+</resources>
